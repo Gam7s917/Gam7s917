@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gam7s917
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++
 -
 - 📫 How to reach me telegram @gam7s917s (MR BBRZ)
 
