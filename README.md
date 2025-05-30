@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gam7s917
+- 👋 Hi, I’m Hussein, from Iraq 
 - 👀 I’m interested in Android Dev right now 
 - 🌱 I was learning C++
 -
